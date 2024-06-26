@@ -1,0 +1,4 @@
+Calificación: 2.5/3
+
+- Hay que mejorar el gráfico de la pila de llamadas
+- Debe documentar todas las funciones
